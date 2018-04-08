@@ -10,13 +10,13 @@
 @1年卡地址="https://www.2faka.com/product/08347480C571"
 <jxapi>
 zaixian={
-@01="http://www.82190555.com/index/qqvod.php?url="
+@01="http://206dy.com/vip.php?url="
 @01="http://js.56dy.net/jiexi.php?url="
 @01="http://api.ivito.cn/?url="
 @01="http://y.mt2t.com/lines?url="
 @01="http://m.lyjml.cn/svip/?url="};
 qita={
-@01="http://www.82190555.com/index/qqvod.php?url="
+@01="http://206dy.com/vip.php?url="
 @01="http://js.56dy.net/jiexi.php?url="
 @01="http://api.ivito.cn/?url="
 @01="http://y.mt2t.com/lines?url="
