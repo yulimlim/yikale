@@ -11,13 +11,13 @@
 <jxapi>
 zaixian={
 @01="http://jx.618g.com/?url="
-@01="http://jx.89zg.cn/?url="
+@01="http://pan.7cyd.com/?url="
 @01="http://jx.918jx.com/jx.php?url="
 @01="http://206dy.com/vip.php?url="
 @01="http://jx.918jx.com/jx.php?url="};
 qita={
 @01="http://jx.618g.com/?url="
-@01="http://jx.89zg.cn/?url="
+@01="http://pan.7cyd.com/?url="
 @01="http://jx.918jx.com/jx.php?url="
 @01="http://206dy.com/vip.php?url="
 @01="http://uz.119ym.com/player.php?url="
